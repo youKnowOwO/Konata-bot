@@ -1,5 +1,6 @@
 {
-"OWNERID": "69",
-"CONTRIBUTOR": ["34","56"],
-"LOGWEBHOOK": "https://"
+	"PREFIX": "k!",
+	"OWNER": "303837",
+	"CONTRIBUTOR": ["2028", "2928"],
+	"SHARD": 6
 }
